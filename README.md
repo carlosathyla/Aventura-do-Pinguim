@@ -29,7 +29,7 @@
 
 1. Clone o repositório:
    bash
-   git clone https://github.com/seu_usuario/Aventura_do_Pinguim.git
+   git clone https://github.com/carlosathyla/Aventura-do-Pinguim.git
    
    
 2. Navegue até o diretório do projeto:
