@@ -45,7 +45,7 @@
 - *Controles:*
   - *Espaço:* Pular (pode pular até 3 vezes consecutivamente)
   - *ESC:* Pausar o jogo
-- *Objetivo:* Evite obstáculos e inimigos enquanto coleta bônus de pontuação. Ganhe uma vida extra ao passar de nível (a cada 300 pontos). O jogo é vencido ao atingir 1200 pontos.
+- *Objetivo:* Evite obstáculos e inimigos enquanto coleta bônus de pontuação. Ganhe uma vida extra ao passar de nível. O jogo é vencido ao atingir 1200 pontos.
 
 ## Estrutura do Código
 
